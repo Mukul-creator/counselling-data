@@ -1,0 +1,1218 @@
+{
+  "source_file": "2025_DTU_round5.pdf",
+  "delhi_region": {
+    "general": [
+      {
+        "sno": 1,
+        "branch": "Computer Science and Engineering",
+        "GNGND": 11352,
+        "GNGLD": 15118,
+        "EWGND": 27670,
+        "EWGLD": 31247,
+        "OBGND": 49930,
+        "OBGLD": 60658,
+        "SCGND": 109484,
+        "SCGLD": 127751,
+        "STGND": 356659,
+        "STGLD": 375308,
+        "GNSGD": 17868,
+        "GNPDD": 164943,
+        "EWPDD": 293227,
+        "OBPDD": 863726,
+        "SCPDD": 701955,
+        "STPDD": null
+      },
+      {
+        "sno": 2,
+        "branch": "Computer Science and Engineering (Data Science & Analytics)",
+        "GNGND": 12442,
+        "GNGLD": 19590,
+        "EWGND": 28333,
+        "EWGLD": null,
+        "OBGND": 54273,
+        "OBGLD": 57393,
+        "SCGND": 107590,
+        "SCGLD": null,
+        "STGND": 432099,
+        "STGLD": null,
+        "GNSGD": 22510,
+        "GNPDD": 164213,
+        "EWPDD": null,
+        "OBPDD": 661822,
+        "SCPDD": null,
+        "STPDD": null
+      },
+      {
+        "sno": 3,
+        "branch": "Information Technology",
+        "GNGND": 14561,
+        "GNGLD": 20121,
+        "EWGND": 33875,
+        "EWGLD": 38505,
+        "OBGND": 70083,
+        "OBGLD": 86242,
+        "SCGND": 134617,
+        "SCGLD": null,
+        "STGND": 553889,
+        "STGLD": 747794,
+        "GNSGD": 24641,
+        "GNPDD": 236246,
+        "EWPDD": 327036,
+        "OBPDD": 968761,
+        "SCPDD": null,
+        "STPDD": null
+      },
+      {
+        "sno": 4,
+        "branch": "Information Technology (Cyber Security)",
+        "GNGND": 19027,
+        "GNGLD": 23570,
+        "EWGND": 36194,
+        "EWGLD": null,
+        "OBGND": 83250,
+        "OBGLD": 96775,
+        "SCGND": 165771,
+        "SCGLD": 208540,
+        "STGND": 643847,
+        "STGLD": null,
+        "GNSGD": 24313,
+        "GNPDD": 226990,
+        "EWPDD": null,
+        "OBPDD": null,
+        "SCPDD": null,
+        "STPDD": null
+      },
+      {
+        "sno": 5,
+        "branch": "Software Engineering",
+        "GNGND": 18706,
+        "GNGLD": 20996,
+        "EWGND": 42387,
+        "EWGLD": 42751,
+        "OBGND": 80436,
+        "OBGLD": 106011,
+        "SCGND": 175926,
+        "SCGLD": 197551,
+        "STGND": 641245,
+        "STGLD": 667981,
+        "GNSGD": 23372,
+        "GNPDD": 333904,
+        "EWPDD": 345115,
+        "OBPDD": null,
+        "SCPDD": null,
+        "STPDD": null
+      },
+      {
+        "sno": 6,
+        "branch": "Mathematics and Computing",
+        "GNGND": 20458,
+        "GNGLD": 23503,
+        "EWGND": 49805,
+        "EWGLD": 61080,
+        "OBGND": 100268,
+        "OBGLD": 115408,
+        "SCGND": 200587,
+        "SCGLD": 242941,
+        "STGND": 960804,
+        "STGLD": null,
+        "GNSGD": 28383,
+        "GNPDD": 340318,
+        "EWPDD": 419962,
+        "OBPDD": null,
+        "SCPDD": null,
+        "STPDD": null
+      },
+      {
+        "sno": 7,
+        "branch": "Electronics and Communication Engineering",
+        "GNGND": 22278,
+        "GNGLD": 26356,
+        "EWGND": 55620,
+        "EWGLD": 92816,
+        "OBGND": 105320,
+        "OBGLD": 121035,
+        "SCGND": 209811,
+        "SCGLD": null,
+        "STGND": 911267,
+        "STGLD": 967902,
+        "GNSGD": 30102,
+        "GNPDD": 440684,
+        "EWPDD": null,
+        "OBPDD": 759285,
+        "SCPDD": null,
+        "STPDD": null
+      },
+      {
+        "sno": 8,
+        "branch": "Electronics Engineering (VLSI Design and Technology)",
+        "GNGND": 24842,
+        "GNGLD": 27868,
+        "EWGND": 60649,
+        "EWGLD": null,
+        "OBGND": 109834,
+        "OBGLD": 144448,
+        "SCGND": 222503,
+        "SCGLD": null,
+        "STGND": 1117103,
+        "STGLD": null,
+        "GNSGD": 52888,
+        "GNPDD": 451368,
+        "EWPDD": null,
+        "OBPDD": null,
+        "SCPDD": null,
+        "STPDD": null
+      },
+      {
+        "sno": 9,
+        "branch": "Electrical Engineering",
+        "GNGND": 31589,
+        "GNGLD": 42199,
+        "EWGND": 79048,
+        "EWGLD": 132804,
+        "OBGND": 147712,
+        "OBGLD": 192885,
+        "SCGND": 286821,
+        "SCGLD": 453582,
+        "STGND": 1235423,
+        "STGLD": null,
+        "GNSGD": 54655,
+        "GNPDD": 838112,
+        "EWPDD": null,
+        "OBPDD": null,
+        "SCPDD": null,
+        "STPDD": null
+      },
+      {
+        "sno": 10,
+        "branch": "Mechanical Engineering",
+        "GNGND": 44365,
+        "GNGLD": 79234,
+        "EWGND": 110006,
+        "EWGLD": 174639,
+        "OBGND": 183462,
+        "OBGLD": 335482,
+        "SCGND": 378952,
+        "SCGLD": 661821,
+        "STGND": 1217615,
+        "STGLD": null,
+        "GNSGD": 91460,
+        "GNPDD": 774676,
+        "EWPDD": null,
+        "OBPDD": null,
+        "SCPDD": null,
+        "STPDD": null
+      },
+      {
+        "sno": 11,
+        "branch": "Mechanical Engineering with specialization in Automotive Engineering",
+        "GNGND": 45443,
+        "GNGLD": 57002,
+        "EWGND": 111566,
+        "EWGLD": null,
+        "OBGND": 189390,
+        "OBGLD": 322243,
+        "SCGND": 418258,
+        "SCGLD": null,
+        "STGND": null,
+        "STGLD": null,
+        "GNSGD": 95906,
+        "GNPDD": null,
+        "EWPDD": null,
+        "OBPDD": null,
+        "SCPDD": null,
+        "STPDD": null
+      },
+      {
+        "sno": 12,
+        "branch": "Engineering Physics",
+        "GNGND": 45024,
+        "GNGLD": 56476,
+        "EWGND": 111899,
+        "EWGLD": null,
+        "OBGND": 200344,
+        "OBGLD": 236184,
+        "SCGND": 440143,
+        "SCGLD": 451812,
+        "STGND": 880496,
+        "STGLD": null,
+        "GNSGD": 114374,
+        "GNPDD": null,
+        "EWPDD": null,
+        "OBPDD": null,
+        "SCPDD": null,
+        "STPDD": null
+      },
+      {
+        "sno": 13,
+        "branch": "Chemical Engineering",
+        "GNGND": 49816,
+        "GNGLD": 55917,
+        "EWGND": 125062,
+        "EWGLD": 200985,
+        "OBGND": 221288,
+        "OBGLD": 340919,
+        "SCGND": 469072,
+        "SCGLD": null,
+        "STGND": null,
+        "STGLD": null,
+        "GNSGD": 95129,
+        "GNPDD": 1279355,
+        "EWPDD": null,
+        "OBPDD": null,
+        "SCPDD": null,
+        "STPDD": null
+      },
+      {
+        "sno": 14,
+        "branch": "Civil Engineering",
+        "GNGND": 56161,
+        "GNGLD": 85250,
+        "EWGND": 134993,
+        "EWGLD": 199792,
+        "OBGND": 236405,
+        "OBGLD": 365974,
+        "SCGND": 475427,
+        "SCGLD": 668920,
+        "STGND": 420855,
+        "STGLD": 810016,
+        "GNSGD": 136962,
+        "GNPDD": 1071740,
+        "EWPDD": null,
+        "OBPDD": null,
+        "SCPDD": null,
+        "STPDD": null
+      },
+      {
+        "sno": 15,
+        "branch": "Production & Industrial Engineering",
+        "GNGND": 51783,
+        "GNGLD": 83392,
+        "EWGND": 129464,
+        "EWGLD": null,
+        "OBGND": 238229,
+        "OBGLD": 411736,
+        "SCGND": 499047,
+        "SCGLD": 699975,
+        "STGND": null,
+        "STGLD": null,
+        "GNSGD": 135824,
+        "GNPDD": null,
+        "EWPDD": null,
+        "OBPDD": null,
+        "SCPDD": null,
+        "STPDD": null
+      },
+      {
+        "sno": 16,
+        "branch": "Environmental Engineering",
+        "GNGND": 58622,
+        "GNGLD": 88486,
+        "EWGND": 149774,
+        "EWGLD": null,
+        "OBGND": 245862,
+        "OBGLD": 418006,
+        "SCGND": 521018,
+        "SCGLD": 653980,
+        "STGND": null,
+        "STGLD": null,
+        "GNSGD": 96556,
+        "GNPDD": 1007481,
+        "EWPDD": null,
+        "OBPDD": null,
+        "SCPDD": null,
+        "STPDD": null
+      },
+      {
+        "sno": 17,
+        "branch": "Bio-Technology",
+        "GNGND": 59055,
+        "GNGLD": 80880,
+        "EWGND": 140244,
+        "EWGLD": 203570,
+        "OBGND": 252856,
+        "OBGLD": 418769,
+        "SCGND": 510076,
+        "SCGLD": null,
+        "STGND": null,
+        "STGLD": null,
+        "GNSGD": 129631,
+        "GNPDD": 916464,
+        "EWPDD": null,
+        "OBPDD": null,
+        "SCPDD": null,
+        "STPDD": null
+      }
+    ],
+    "defense_cw": [
+      {
+        "sno": 1,
+        "branch": "Computer Science and Engineering",
+        "GNCWD": {
+          "rank": 205133,
+          "round": "V(v)"
+        },
+        "EWCWD": {
+          "rank": 102477,
+          "round": "VI"
+        },
+        "OBCWD": {
+          "rank": 86912,
+          "round": "VI"
+        },
+        "SCCWD": {
+          "rank": 242191,
+          "round": "VIII"
+        },
+        "STCWD": {
+          "rank": 476260,
+          "round": "VI"
+        }
+      },
+      {
+        "sno": 2,
+        "branch": "Computer Science and Engineering (Data Science & Analytics)",
+        "GNCWD": {
+          "rank": 88380,
+          "round": "V(vii)"
+        },
+        "EWCWD": {
+          "rank": 115837,
+          "round": "VI"
+        },
+        "OBCWD": {
+          "rank": 95366,
+          "round": "VI"
+        },
+        "SCCWD": {
+          "rank": 415350,
+          "round": "VIII"
+        },
+        "STCWD": null
+      },
+      {
+        "sno": 3,
+        "branch": "Information Technology",
+        "GNCWD": {
+          "rank": 362645,
+          "round": "V(x)"
+        },
+        "EWCWD": null,
+        "OBCWD": {
+          "rank": 143686,
+          "round": "VI"
+        },
+        "SCCWD": null,
+        "STCWD": null
+      },
+      {
+        "sno": 4,
+        "branch": "Information Technology (Cyber Security)",
+        "GNCWD": {
+          "rank": 393724,
+          "round": "V(vii)"
+        },
+        "EWCWD": {
+          "rank": 118959,
+          "round": "VI"
+        },
+        "OBCWD": null,
+        "SCCWD": {
+          "rank": 839253,
+          "round": "VIII"
+        },
+        "STCWD": null
+      },
+      {
+        "sno": 5,
+        "branch": "Software Engineering",
+        "GNCWD": {
+          "rank": 1261139,
+          "round": "V(x)"
+        },
+        "EWCWD": {
+          "rank": 137016,
+          "round": "VI"
+        },
+        "OBCWD": {
+          "rank": 160204,
+          "round": "VI"
+        },
+        "SCCWD": {
+          "rank": 394754,
+          "round": "VIII"
+        },
+        "STCWD": null
+      },
+      {
+        "sno": 6,
+        "branch": "Mathematics and Computing",
+        "GNCWD": {
+          "rank": 24086,
+          "round": "VI"
+        },
+        "EWCWD": {
+          "rank": 147398,
+          "round": "VI"
+        },
+        "OBCWD": {
+          "rank": 181575,
+          "round": "VI"
+        },
+        "SCCWD": {
+          "rank": 410043,
+          "round": "VI"
+        },
+        "STCWD": null
+      },
+      {
+        "sno": 7,
+        "branch": "Electronics and Communication Engineering",
+        "GNCWD": {
+          "rank": 40931,
+          "round": "VI"
+        },
+        "EWCWD": {
+          "rank": 177633,
+          "round": "VI"
+        },
+        "OBCWD": {
+          "rank": 188916,
+          "round": "VI"
+        },
+        "SCCWD": {
+          "rank": 310403,
+          "round": "VIII"
+        },
+        "STCWD": null
+      },
+      {
+        "sno": 8,
+        "branch": "Electronics Engineering (VLSI Design and Technology)",
+        "GNCWD": {
+          "rank": 27436,
+          "round": "VI"
+        },
+        "EWCWD": null,
+        "OBCWD": {
+          "rank": 246689,
+          "round": "VI"
+        },
+        "SCCWD": null,
+        "STCWD": null
+      },
+      {
+        "sno": 9,
+        "branch": "Electrical Engineering",
+        "GNCWD": {
+          "rank": 92984,
+          "round": "VI"
+        },
+        "EWCWD": {
+          "rank": 240501,
+          "round": "VI"
+        },
+        "OBCWD": {
+          "rank": 384882,
+          "round": "VI"
+        },
+        "SCCWD": null,
+        "STCWD": null
+      },
+      {
+        "sno": 10,
+        "branch": "Mechanical Engineering",
+        "GNCWD": {
+          "rank": 121599,
+          "round": "VI"
+        },
+        "EWCWD": {
+          "rank": 124364,
+          "round": "VI"
+        },
+        "OBCWD": {
+          "rank": 699925,
+          "round": "VI"
+        },
+        "SCCWD": {
+          "rank": 1315552,
+          "round": "VI"
+        },
+        "STCWD": null
+      },
+      {
+        "sno": 11,
+        "branch": "Mechanical Engineering with specialization in Automotive Engineering",
+        "GNCWD": {
+          "rank": 116177,
+          "round": "VI"
+        },
+        "EWCWD": {
+          "rank": 345801,
+          "round": "VI"
+        },
+        "OBCWD": {
+          "rank": 559592,
+          "round": "VI"
+        },
+        "SCCWD": null,
+        "STCWD": null
+      },
+      {
+        "sno": 12,
+        "branch": "Engineering Physics",
+        "GNCWD": {
+          "rank": 92102,
+          "round": "VI"
+        },
+        "EWCWD": null,
+        "OBCWD": {
+          "rank": 206544,
+          "round": "VIII"
+        },
+        "SCCWD": null,
+        "STCWD": null
+      },
+      {
+        "sno": 13,
+        "branch": "Chemical Engineering",
+        "GNCWD": {
+          "rank": 152965,
+          "round": "VI"
+        },
+        "EWCWD": {
+          "rank": 384417,
+          "round": "VI"
+        },
+        "OBCWD": {
+          "rank": 350209,
+          "round": "VI"
+        },
+        "SCCWD": null,
+        "STCWD": null
+      },
+      {
+        "sno": 14,
+        "branch": "Civil Engineering",
+        "GNCWD": {
+          "rank": 152423,
+          "round": "VI"
+        },
+        "EWCWD": {
+          "rank": 342635,
+          "round": "VI"
+        },
+        "OBCWD": {
+          "rank": 688703,
+          "round": "VI"
+        },
+        "SCCWD": {
+          "rank": 1033304,
+          "round": "VI"
+        },
+        "STCWD": null
+      },
+      {
+        "sno": 15,
+        "branch": "Production & Industrial Engineering",
+        "GNCWD": {
+          "rank": 158992,
+          "round": "VI"
+        },
+        "EWCWD": null,
+        "OBCWD": {
+          "rank": 891801,
+          "round": "VI"
+        },
+        "SCCWD": null,
+        "STCWD": null
+      },
+      {
+        "sno": 16,
+        "branch": "Environmental Engineering",
+        "GNCWD": {
+          "rank": 159833,
+          "round": "VI"
+        },
+        "EWCWD": null,
+        "OBCWD": {
+          "rank": 474266,
+          "round": "VI"
+        },
+        "SCCWD": null,
+        "STCWD": null
+      },
+      {
+        "sno": 17,
+        "branch": "Bio-Technology",
+        "GNCWD": {
+          "rank": 128079,
+          "round": "VI"
+        },
+        "EWCWD": null,
+        "OBCWD": {
+          "rank": 267734,
+          "round": "VIII"
+        },
+        "SCCWD": null,
+        "STCWD": null
+      }
+    ],
+    "kashmiri_migrants_km": {
+      "branch": "CSE",
+      "rank": 285540
+    }
+  },
+  "outside_delhi_region": {
+    "general": [
+      {
+        "sno": 1,
+        "branch": "Computer Science and Engineering",
+        "S.No.": null,
+        "Branch": null,
+        "GNGNO": 6200,
+        "GNGLO": 6391,
+        "EWGNO": 8557,
+        "EWGLO": 12353,
+        "OBGNO": null,
+        "OBGLO": 21525,
+        "SCGNO": 53632,
+        "SCGLO": 67313,
+        "STGNO": 92242,
+        "STGLO": null,
+        "GNPDO": 43518,
+        "EWPDO": 152345,
+        "OBPDO": 134244,
+        "SCPDO": 1035172
+      },
+      {
+        "sno": 2,
+        "branch": "Computer Science and Engineering (Data Science & Analytics)",
+        "S.No.": null,
+        "Branch": null,
+        "GNGNO": 6268,
+        "GNGLO": null,
+        "EWGNO": 9479,
+        "EWGLO": null,
+        "OBGNO": null,
+        "OBGLO": null,
+        "SCGNO": 53670,
+        "SCGLO": null,
+        "STGNO": 80545,
+        "STGLO": null,
+        "GNPDO": null,
+        "EWPDO": null,
+        "OBPDO": null,
+        "SCPDO": null
+      },
+      {
+        "sno": 3,
+        "branch": "Information Technology",
+        "S.No.": null,
+        "Branch": null,
+        "GNGNO": 7360,
+        "GNGLO": null,
+        "EWGNO": 9928,
+        "EWGLO": null,
+        "OBGNO": null,
+        "OBGLO": null,
+        "SCGNO": 61749,
+        "SCGLO": 85292,
+        "STGNO": 105678,
+        "STGLO": null,
+        "GNPDO": 75873,
+        "EWPDO": null,
+        "OBPDO": null,
+        "SCPDO": null
+      },
+      {
+        "sno": 4,
+        "branch": "Information Technology (Cyber Security)",
+        "S.No.": null,
+        "Branch": null,
+        "GNGNO": 7932,
+        "GNGLO": null,
+        "EWGNO": 11953,
+        "EWGLO": null,
+        "OBGNO": null,
+        "OBGLO": null,
+        "SCGNO": 76028,
+        "SCGLO": null,
+        "STGNO": 153270,
+        "STGLO": null,
+        "GNPDO": null,
+        "EWPDO": null,
+        "OBPDO": null,
+        "SCPDO": null
+      },
+      {
+        "sno": 5,
+        "branch": "Software Engineering",
+        "S.No.": null,
+        "Branch": null,
+        "GNGNO": 8165,
+        "GNGLO": 11158,
+        "EWGNO": 11153,
+        "EWGLO": null,
+        "OBGNO": null,
+        "OBGLO": null,
+        "SCGNO": 69379,
+        "SCGLO": null,
+        "STGNO": 178527,
+        "STGLO": null,
+        "GNPDO": 127567,
+        "EWPDO": 213306,
+        "OBPDO": null,
+        "SCPDO": null
+      },
+      {
+        "sno": 6,
+        "branch": "Mathematics and Computing",
+        "S.No.": null,
+        "Branch": null,
+        "GNGNO": 8348,
+        "GNGLO": 11612,
+        "EWGNO": 11956,
+        "EWGLO": null,
+        "OBGNO": null,
+        "OBGLO": null,
+        "SCGNO": 78739,
+        "SCGLO": null,
+        "STGNO": 111434,
+        "STGLO": null,
+        "GNPDO": null,
+        "EWPDO": null,
+        "OBPDO": 211643,
+        "SCPDO": null
+      },
+      {
+        "sno": 7,
+        "branch": "Electronics and Communication Engineering",
+        "S.No.": null,
+        "Branch": null,
+        "GNGNO": 9569,
+        "GNGLO": null,
+        "EWGNO": 12327,
+        "EWGLO": null,
+        "OBGNO": null,
+        "OBGLO": null,
+        "SCGNO": 85687,
+        "SCGLO": 118125,
+        "STGNO": 89324,
+        "STGLO": 234478,
+        "GNPDO": null,
+        "EWPDO": null,
+        "OBPDO": null,
+        "SCPDO": null
+      },
+      {
+        "sno": 8,
+        "branch": "Electronics Engineering (VLSI Design and Technology)",
+        "S.No.": null,
+        "Branch": null,
+        "GNGNO": 9836,
+        "GNGLO": null,
+        "EWGNO": 13833,
+        "EWGLO": null,
+        "OBGNO": null,
+        "OBGLO": null,
+        "SCGNO": 99513,
+        "SCGLO": null,
+        "STGNO": 139989,
+        "STGLO": null,
+        "GNPDO": 157474,
+        "EWPDO": null,
+        "OBPDO": null,
+        "SCPDO": null
+      },
+      {
+        "sno": 9,
+        "branch": "Electrical Engineering",
+        "S.No.": null,
+        "Branch": null,
+        "GNGNO": 11227,
+        "GNGLO": 12644,
+        "EWGNO": 16450,
+        "EWGLO": null,
+        "OBGNO": null,
+        "OBGLO": 43567,
+        "SCGNO": 108911,
+        "SCGLO": null,
+        "STGNO": 212113,
+        "STGLO": null,
+        "GNPDO": 340487,
+        "EWPDO": 723998,
+        "OBPDO": 592591,
+        "SCPDO": null
+      },
+      {
+        "sno": 10,
+        "branch": "Mechanical Engineering",
+        "S.No.": null,
+        "Branch": null,
+        "GNGNO": 16022,
+        "GNGLO": 22085,
+        "EWGNO": 20369,
+        "EWGLO": null,
+        "OBGNO": null,
+        "OBGLO": 51115,
+        "SCGNO": 130322,
+        "SCGLO": null,
+        "STGNO": 206370,
+        "STGLO": null,
+        "GNPDO": 414710,
+        "EWPDO": null,
+        "OBPDO": null,
+        "SCPDO": null
+      },
+      {
+        "sno": 11,
+        "branch": "Mechanical Engineering with specialization in Automotive Engineering",
+        "S.No.": null,
+        "Branch": null,
+        "GNGNO": 14546,
+        "GNGLO": null,
+        "EWGNO": 20968,
+        "EWGLO": null,
+        "OBGNO": null,
+        "OBGLO": null,
+        "SCGNO": 129461,
+        "SCGLO": null,
+        "STGNO": 243131,
+        "STGLO": 391598,
+        "GNPDO": 505224,
+        "EWPDO": null,
+        "OBPDO": null,
+        "SCPDO": null
+      },
+      {
+        "sno": 12,
+        "branch": "Engineering Physics",
+        "S.No.": null,
+        "Branch": null,
+        "GNGNO": 14482,
+        "GNGLO": null,
+        "EWGNO": 26469,
+        "EWGLO": null,
+        "OBGNO": null,
+        "OBGLO": 60488,
+        "SCGNO": 133584,
+        "SCGLO": null,
+        "STGNO": 245810,
+        "STGLO": null,
+        "GNPDO": null,
+        "EWPDO": null,
+        "OBPDO": 1118227,
+        "SCPDO": null
+      },
+      {
+        "sno": 13,
+        "branch": "Chemical Engineering",
+        "S.No.": null,
+        "Branch": null,
+        "GNGNO": 16697,
+        "GNGLO": null,
+        "EWGNO": 23651,
+        "EWGLO": null,
+        "OBGNO": null,
+        "OBGLO": 59488,
+        "SCGNO": 142624,
+        "SCGLO": null,
+        "STGNO": 240965,
+        "STGLO": null,
+        "GNPDO": null,
+        "EWPDO": null,
+        "OBPDO": null,
+        "SCPDO": null
+      },
+      {
+        "sno": 14,
+        "branch": "Civil Engineering",
+        "S.No.": null,
+        "Branch": null,
+        "GNGNO": 19179,
+        "GNGLO": null,
+        "EWGNO": 26863,
+        "EWGLO": null,
+        "OBGNO": null,
+        "OBGLO": null,
+        "SCGNO": 140447,
+        "SCGLO": null,
+        "STGNO": 141094,
+        "STGLO": null,
+        "GNPDO": 506657,
+        "EWPDO": null,
+        "OBPDO": null,
+        "SCPDO": null
+      },
+      {
+        "sno": 15,
+        "branch": "Production & Industrial Engineering",
+        "S.No.": null,
+        "Branch": null,
+        "GNGNO": 18665,
+        "GNGLO": 28229,
+        "EWGNO": 27458,
+        "EWGLO": null,
+        "OBGNO": null,
+        "OBGLO": null,
+        "SCGNO": 143584,
+        "SCGLO": null,
+        "STGNO": 217336,
+        "STGLO": null,
+        "GNPDO": null,
+        "EWPDO": null,
+        "OBPDO": null,
+        "SCPDO": null
+      },
+      {
+        "sno": 16,
+        "branch": "Environmental Engineering",
+        "S.No.": null,
+        "Branch": null,
+        "GNGNO": 19949,
+        "GNGLO": 29881,
+        "EWGNO": 28047,
+        "EWGLO": null,
+        "OBGNO": null,
+        "OBGLO": null,
+        "SCGNO": 150918,
+        "SCGLO": null,
+        "STGNO": 249821,
+        "STGLO": null,
+        "GNPDO": null,
+        "EWPDO": null,
+        "OBPDO": 788516,
+        "SCPDO": null
+      },
+      {
+        "sno": 17,
+        "branch": "Bio-Technology",
+        "S.No.": null,
+        "Branch": null,
+        "GNGNO": 19876,
+        "GNGLO": 23292,
+        "EWGNO": 28900,
+        "EWGLO": null,
+        "OBGNO": null,
+        "OBGLO": null,
+        "SCGNO": 148018,
+        "SCGLO": null,
+        "STGNO": 251327,
+        "STGLO": null,
+        "GNPDO": null,
+        "EWPDO": null,
+        "OBPDO": null,
+        "SCPDO": null
+      }
+    ],
+    "defense_cw": [
+      {
+        "sno": 1,
+        "branch": "Computer Science and Engineering",
+        "GNCWO": {
+          "rank": 768211,
+          "round": "I"
+        },
+        "EWCWO": null,
+        "OBCWO": {
+          "rank": 867962,
+          "round": "III"
+        },
+        "SCCWO": {
+          "rank": 405412,
+          "round": "V(x)"
+        },
+        "STCWO": {
+          "rank": 444900,
+          "round": "VI"
+        }
+      },
+      {
+        "sno": 2,
+        "branch": "Computer Science and Engineering (Data Science & Analytics)",
+        "GNCWO": null,
+        "EWCWO": null,
+        "OBCWO": null,
+        "SCCWO": null,
+        "STCWO": null
+      },
+      {
+        "sno": 3,
+        "branch": "Information Technology",
+        "GNCWO": null,
+        "EWCWO": {
+          "rank": 77000,
+          "round": "IV"
+        },
+        "OBCWO": {
+          "rank": 38726,
+          "round": "IV"
+        },
+        "SCCWO": null,
+        "STCWO": null
+      },
+      {
+        "sno": 4,
+        "branch": "Information Technology (Cyber Security)",
+        "GNCWO": {
+          "rank": 103647,
+          "round": "III"
+        },
+        "EWCWO": null,
+        "OBCWO": null,
+        "SCCWO": null,
+        "STCWO": null
+      },
+      {
+        "sno": 5,
+        "branch": "Software Engineering",
+        "GNCWO": null,
+        "EWCWO": null,
+        "OBCWO": {
+          "rank": 76557,
+          "round": "IV"
+        },
+        "SCCWO": null,
+        "STCWO": null
+      },
+      {
+        "sno": 6,
+        "branch": "Mathematics and Computing",
+        "GNCWO": {
+          "rank": 124111,
+          "round": "III"
+        },
+        "EWCWO": null,
+        "OBCWO": null,
+        "SCCWO": null,
+        "STCWO": null
+      },
+      {
+        "sno": 7,
+        "branch": "Electronics and Communication Engineering",
+        "GNCWO": {
+          "rank": 216593,
+          "round": "I"
+        },
+        "EWCWO": {
+          "rank": 88020,
+          "round": "IV"
+        },
+        "OBCWO": null,
+        "SCCWO": {
+          "rank": 134123,
+          "round": "VI"
+        },
+        "STCWO": null
+      },
+      {
+        "sno": 8,
+        "branch": "Electronics Engineering (VLSI Design and Technology)",
+        "GNCWO": null,
+        "EWCWO": null,
+        "OBCWO": null,
+        "SCCWO": null,
+        "STCWO": null
+      },
+      {
+        "sno": 9,
+        "branch": "Electrical Engineering",
+        "GNCWO": {
+          "rank": 39858,
+          "round": "IV"
+        },
+        "EWCWO": null,
+        "OBCWO": null,
+        "SCCWO": null,
+        "STCWO": null
+      },
+      {
+        "sno": 10,
+        "branch": "Mechanical Engineering",
+        "GNCWO": {
+          "rank": 49836,
+          "round": "IV"
+        },
+        "EWCWO": null,
+        "OBCWO": {
+          "rank": 375936,
+          "round": "IV"
+        },
+        "SCCWO": {
+          "rank": 274465,
+          "round": "VI"
+        },
+        "STCWO": null
+      },
+      {
+        "sno": 11,
+        "branch": "Mechanical Engineering with specialization in Automotive Engineering",
+        "GNCWO": null,
+        "EWCWO": null,
+        "OBCWO": null,
+        "SCCWO": null,
+        "STCWO": null
+      },
+      {
+        "sno": 12,
+        "branch": "Engineering Physics",
+        "GNCWO": {
+          "rank": 168888,
+          "round": "IV"
+        },
+        "EWCWO": null,
+        "OBCWO": null,
+        "SCCWO": null,
+        "STCWO": null
+      },
+      {
+        "sno": 13,
+        "branch": "Chemical Engineering",
+        "GNCWO": null,
+        "EWCWO": null,
+        "OBCWO": null,
+        "SCCWO": null,
+        "STCWO": null
+      },
+      {
+        "sno": 14,
+        "branch": "Civil Engineering",
+        "GNCWO": null,
+        "EWCWO": null,
+        "OBCWO": {
+          "rank": 44636,
+          "round": "VI"
+        },
+        "SCCWO": null,
+        "STCWO": null
+      },
+      {
+        "sno": 15,
+        "branch": "Production & Industrial Engineering",
+        "GNCWO": null,
+        "EWCWO": null,
+        "OBCWO": null,
+        "SCCWO": null,
+        "STCWO": null
+      },
+      {
+        "sno": 16,
+        "branch": "Environmental Engineering",
+        "GNCWO": null,
+        "EWCWO": null,
+        "OBCWO": null,
+        "SCCWO": null,
+        "STCWO": null
+      },
+      {
+        "sno": 17,
+        "branch": "Bio-Technology",
+        "GNCWO": null,
+        "EWCWO": null,
+        "OBCWO": null,
+        "SCCWO": null,
+        "STCWO": null
+      }
+    ]
+  }
+}

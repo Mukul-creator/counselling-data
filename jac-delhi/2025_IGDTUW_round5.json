@@ -1,0 +1,463 @@
+{
+  "source_file": "2025_IGDTUW_round5.pdf",
+  "university": "IGDTUW",
+  "delhi_region": [
+    {
+      "branch": "CSE-AI",
+      "GNGND": 44405,
+      "GNCWD": {
+        "rank": 103166,
+        "round": "VI"
+      },
+      "GNPDD": 433013,
+      "SCGND": 413693,
+      "SCCWD": null,
+      "SCPDD": null,
+      "STGND": 969509,
+      "STCWD": null,
+      "STPDD": null,
+      "OBGND": 186225,
+      "OBCWD": {
+        "rank": 371303,
+        "round": "VI"
+      },
+      "OBPDD": null,
+      "EWGND": 90958,
+      "EWCWD": {
+        "rank": 297111,
+        "round": "VI"
+      },
+      "EWPDD": null,
+      "SG": 47534,
+      "KM": null
+    },
+    {
+      "branch": "CSE",
+      "GNGND": 50687,
+      "GNCWD": {
+        "rank": 163090,
+        "round": "VI"
+      },
+      "GNPDD": 313995,
+      "SCGND": 399917,
+      "SCCWD": null,
+      "SCPDD": null,
+      "STGND": null,
+      "STCWD": null,
+      "STPDD": null,
+      "OBGND": 204747,
+      "OBCWD": {
+        "rank": 423703,
+        "round": "VI"
+      },
+      "OBPDD": null,
+      "EWGND": 118163,
+      "EWCWD": {
+        "rank": 556266,
+        "round": "VI"
+      },
+      "EWPDD": null,
+      "SG": 56996,
+      "KM": 206575
+    },
+    {
+      "branch": "ECE-AI",
+      "GNGND": 75759,
+      "GNCWD": {
+        "rank": 141971,
+        "round": "VI"
+      },
+      "GNPDD": 1070615,
+      "SCGND": 698598,
+      "SCCWD": null,
+      "SCPDD": null,
+      "STGND": null,
+      "STCWD": null,
+      "STPDD": null,
+      "OBGND": 339542,
+      "OBCWD": {
+        "rank": 448138,
+        "round": "VI"
+      },
+      "OBPDD": null,
+      "EWGND": 183883,
+      "EWCWD": null,
+      "EWPDD": null,
+      "SG": 80409,
+      "KM": null
+    },
+    {
+      "branch": "ECE",
+      "GNGND": 79574,
+      "GNCWD": {
+        "rank": 121378,
+        "round": "VI"
+      },
+      "GNPDD": 1360126,
+      "SCGND": 597563,
+      "SCCWD": null,
+      "SCPDD": null,
+      "STGND": null,
+      "STCWD": null,
+      "STPDD": null,
+      "OBGND": 346713,
+      "OBCWD": {
+        "rank": 396019,
+        "round": "VI"
+      },
+      "OBPDD": null,
+      "EWGND": 192517,
+      "EWCWD": null,
+      "EWPDD": null,
+      "SG": 87211,
+      "KM": null
+    },
+    {
+      "branch": "IT",
+      "GNGND": 64223,
+      "GNCWD": {
+        "rank": 106901,
+        "round": "VI"
+      },
+      "GNPDD": 946450,
+      "SCGND": 516592,
+      "SCCWD": null,
+      "SCPDD": null,
+      "STGND": null,
+      "STCWD": null,
+      "STPDD": null,
+      "OBGND": 270817,
+      "OBCWD": {
+        "rank": 377508,
+        "round": "VI"
+      },
+      "OBPDD": null,
+      "EWGND": 151085,
+      "EWCWD": {
+        "rank": 638944,
+        "round": "VI"
+      },
+      "EWPDD": null,
+      "SG": 66195,
+      "KM": null
+    },
+    {
+      "branch": "AIML",
+      "GNGND": 64133,
+      "GNCWD": {
+        "rank": 188819,
+        "round": "VI"
+      },
+      "GNPDD": 518972,
+      "SCGND": 470209,
+      "SCCWD": null,
+      "SCPDD": null,
+      "STGND": null,
+      "STCWD": null,
+      "STPDD": null,
+      "OBGND": 280051,
+      "OBCWD": {
+        "rank": 491287,
+        "round": "VI"
+      },
+      "OBPDD": null,
+      "EWGND": 135852,
+      "EWCWD": {
+        "rank": 273427,
+        "round": "VI"
+      },
+      "EWPDD": null,
+      "SG": 75091,
+      "KM": null
+    },
+    {
+      "branch": "MAE",
+      "GNGND": 92818,
+      "GNCWD": {
+        "rank": 189095,
+        "round": "VI"
+      },
+      "GNPDD": null,
+      "SCGND": 820634,
+      "SCCWD": null,
+      "SCPDD": null,
+      "STGND": null,
+      "STCWD": null,
+      "STPDD": null,
+      "OBGND": 425801,
+      "OBCWD": null,
+      "OBPDD": null,
+      "EWGND": 244309,
+      "EWCWD": null,
+      "EWPDD": null,
+      "SG": 116920,
+      "KM": null
+    },
+    {
+      "branch": "DMAM",
+      "GNGND": 94672,
+      "GNCWD": {
+        "rank": 132749,
+        "round": "VI"
+      },
+      "GNPDD": null,
+      "SCGND": 856293,
+      "SCCWD": null,
+      "SCPDD": null,
+      "STGND": null,
+      "STCWD": null,
+      "STPDD": null,
+      "OBGND": 450146,
+      "OBCWD": {
+        "rank": 479854,
+        "round": "VI"
+      },
+      "OBPDD": null,
+      "EWGND": 245925,
+      "EWCWD": null,
+      "EWPDD": null,
+      "SG": 137809,
+      "KM": null
+    },
+    {
+      "branch": "MAC",
+      "GNGND": 69001,
+      "GNCWD": {
+        "rank": 5547,
+        "round": "VI"
+      },
+      "GNPDD": 758044,
+      "SCGND": 617454,
+      "SCCWD": null,
+      "SCPDD": null,
+      "STGND": 17580,
+      "STCWD": null,
+      "STPDD": null,
+      "OBGND": 306445,
+      "OBCWD": null,
+      "OBPDD": null,
+      "EWGND": 163983,
+      "EWCWD": null,
+      "EWPDD": null,
+      "SG": 79298,
+      "KM": null
+    },
+    {
+      "branch": "B.Arch (Paper 2)",
+      "GNGND": 2977,
+      "GNCWD": null,
+      "GNPDD": 5674,
+      "SCGND": 21675,
+      "SCCWD": null,
+      "SCPDD": null,
+      "STGND": null,
+      "STCWD": null,
+      "STPDD": null,
+      "OBGND": 18619,
+      "OBCWD": null,
+      "OBPDD": null,
+      "EWGND": 18377,
+      "EWCWD": null,
+      "EWPDD": null,
+      "SG": null,
+      "KM": null
+    }
+  ],
+  "outside_delhi_region": [
+    {
+      "branch": "CSE-AI",
+      "GNGNO": 23158,
+      "GNCWO": null,
+      "GNPDO": {
+        "rank": 156220,
+        "round": "IV"
+      },
+      "SCGNO": 171651,
+      "SCCWO": null,
+      "SCPDO": null,
+      "STGNO": 240177,
+      "STCWO": null,
+      "STPDO": null,
+      "OBGNO": 48607,
+      "OBCWO": null,
+      "OBPDO": null,
+      "EWGNO": 32454,
+      "EWCWO": null,
+      "EWPDO": null
+    },
+    {
+      "branch": "CSE",
+      "GNGNO": 20667,
+      "GNCWO": null,
+      "GNPDO": 162681,
+      "SCGNO": 159820,
+      "SCCWO": null,
+      "SCPDO": null,
+      "STGNO": null,
+      "STCWO": null,
+      "STPDO": null,
+      "OBGNO": null,
+      "OBCWO": null,
+      "OBPDO": 877504,
+      "EWGNO": 29387,
+      "EWCWO": null,
+      "EWPDO": null
+    },
+    {
+      "branch": "ECE-AI",
+      "GNGNO": 27368,
+      "GNCWO": null,
+      "GNPDO": {
+        "rank": 130295,
+        "round": "IV"
+      },
+      "SCGNO": 190655,
+      "SCCWO": null,
+      "SCPDO": null,
+      "STGNO": 298847,
+      "STCWO": null,
+      "STPDO": null,
+      "OBGNO": 44123,
+      "OBCWO": null,
+      "OBPDO": 696244,
+      "EWGNO": 38849,
+      "EWCWO": null,
+      "EWPDO": null
+    },
+    {
+      "branch": "ECE",
+      "GNGNO": 27449,
+      "GNCWO": null,
+      "GNPDO": 170117,
+      "SCGNO": 189771,
+      "SCCWO": null,
+      "SCPDO": null,
+      "STGNO": null,
+      "STCWO": null,
+      "STPDO": null,
+      "OBGNO": null,
+      "OBCWO": null,
+      "OBPDO": null,
+      "EWGNO": 36953,
+      "EWCWO": null,
+      "EWPDO": null
+    },
+    {
+      "branch": "IT",
+      "GNGNO": 25486,
+      "GNCWO": null,
+      "GNPDO": null,
+      "SCGNO": 181040,
+      "SCCWO": {
+        "rank": 181214,
+        "round": "VI"
+      },
+      "SCPDO": null,
+      "STGNO": 362325,
+      "STCWO": null,
+      "STPDO": null,
+      "OBGNO": 55626,
+      "OBCWO": null,
+      "OBPDO": null,
+      "EWGNO": 32978,
+      "EWCWO": null,
+      "EWPDO": null
+    },
+    {
+      "branch": "AIML",
+      "GNGNO": 25326,
+      "GNCWO": null,
+      "GNPDO": 263399,
+      "SCGNO": 185443,
+      "SCCWO": null,
+      "SCPDO": null,
+      "STGNO": null,
+      "STCWO": null,
+      "STPDO": null,
+      "OBGNO": null,
+      "OBCWO": {
+        "rank": 68346,
+        "round": "VI"
+      },
+      "OBPDO": null,
+      "EWGNO": 33019,
+      "EWCWO": {
+        "rank": 116909,
+        "round": "VI"
+      },
+      "EWPDO": null
+    },
+    {
+      "branch": "MAE",
+      "GNGNO": 30228,
+      "GNCWO": null,
+      "GNPDO": null,
+      "SCGNO": 193338,
+      "SCCWO": null,
+      "SCPDO": null,
+      "STGNO": 237746,
+      "STCWO": null,
+      "STPDO": null,
+      "OBGNO": 53744,
+      "OBCWO": null,
+      "OBPDO": 919670,
+      "EWGNO": 40700,
+      "EWCWO": null,
+      "EWPDO": null
+    },
+    {
+      "branch": "DMAM",
+      "GNGNO": 31577,
+      "GNCWO": null,
+      "GNPDO": 183061,
+      "SCGNO": 206949,
+      "SCCWO": null,
+      "SCPDO": null,
+      "STGNO": null,
+      "STCWO": null,
+      "STPDO": null,
+      "OBGNO": null,
+      "OBCWO": null,
+      "OBPDO": null,
+      "EWGNO": null,
+      "EWCWO": null,
+      "EWPDO": null
+    },
+    {
+      "branch": "MAC",
+      "GNGNO": 26176,
+      "GNCWO": null,
+      "GNPDO": null,
+      "SCGNO": 190705,
+      "SCCWO": null,
+      "SCPDO": null,
+      "STGNO": 339001,
+      "STCWO": null,
+      "STPDO": null,
+      "OBGNO": 50746,
+      "OBCWO": null,
+      "OBPDO": null,
+      "EWGNO": 35532,
+      "EWCWO": null,
+      "EWPDO": null
+    },
+    {
+      "branch": "B.Arch (Paper 2)",
+      "GNGNO": 1129,
+      "GNCWO": null,
+      "GNPDO": null,
+      "SCGNO": null,
+      "SCCWO": null,
+      "SCPDO": null,
+      "STGNO": null,
+      "STCWO": null,
+      "STPDO": null,
+      "OBGNO": null,
+      "OBCWO": null,
+      "OBPDO": null,
+      "EWGNO": null,
+      "EWCWO": null,
+      "EWPDO": null
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "source": "2025_IIIT-D_round5.pdf",
+  "institute": "IIIT Delhi",
+  "round": 5,
+  "year": 2025,
+  "branches": [
+    "CSAM",
+    "CSAI",
+    "CSB",
+    "CSD",
+    "CSEcon",
+    "CSE",
+    "CSSS",
+    "EVE",
+    "ECE"
+  ],
+  "cutoffs": {
+    "Without Bonus": {
+      "OBCWD": {
+        "CSAM": 16331,
+        "CSAI": 16016,
+        "CSB": 18942,
+        "CSD": 17828,
+        "CSE": 12321,
+        "CSSS": 20355,
+        "EVE": 22664,
+        "ECE": 20180
+      },
+      "OBGND": {
+        "CSAM": 12210,
+        "CSAI": 9053,
+        "CSB": 15088,
+        "CSD": 13326,
+        "CSEcon": 13210,
+        "CSE": 10580,
+        "CSSS": 15688,
+        "EVE": 17024,
+        "ECE": 16246
+      },
+      "OBGNO": {
+        "CSAM": 2798,
+        "CSAI": 2444,
+        "CSB": 3455,
+        "CSD": 2841,
+        "CSEcon": 2495,
+        "CSE": 2269,
+        "CSSS": 3252,
+        "EVE": 3630,
+        "ECE": 3290
+      },
+      "EWCWD": {
+        "CSAI": 8848,
+        "CSE": 8294,
+        "EVE": 22138
+      },
+      "EWGND": {
+        "CSAM": 6860,
+        "CSAI": 6064,
+        "CSB": 9425,
+        "CSD": 7924,
+        "CSEcon": 7449,
+        "CSE": 5800,
+        "CSSS": 10649,
+        "EVE": 10813,
+        "ECE": 9614
+      },
+      "EWGNO": {
+        "CSAM": 1719,
+        "CSAI": 1449,
+        "CSB": 2320,
+        "CSD": 2072,
+        "CSE": 1649,
+        "CSSS": 2367,
+        "EVE": 2511,
+        "ECE": 2132
+      },
+      "EWPDD": {
+        "CSAI": 28144,
+        "CSE": 23761
+      },
+      "GNKM": {
+        "CSAM": 3726,
+        "CSAI": 27389,
+        "CSB": 7195,
+        "CSD": 3691,
+        "CSEcon": 3828,
+        "CSE": 3183,
+        "CSSS": 7068,
+        "EVE": 26615,
+        "ECE": 6138
+      },
+      "GNCWD": {
+        "CSAM": 12177,
+        "CSAI": 3126,
+        "CSB": 6309,
+        "CSD": 28905,
+        "CSEcon": 2801,
+        "CSE": 16066,
+        "CSSS": 6434,
+        "EVE": 8217,
+        "ECE": 7213
+      },
+      "GNGND": {
+        "CSAM": 2254,
+        "CSAI": 782,
+        "CSB": 3531,
+        "CSD": 2606,
+        "CSEcon": 2255,
+        "CSE": 1413,
+        "CSSS": 3417,
+        "EVE": 4210,
+        "ECE": 3811
+      },
+      "GNGNO": {
+        "CSAM": 881,
+        "CSAI": 620,
+        "CSB": 1228,
+        "CSD": 1008,
+        "CSEcon": 955,
+        "CSE": 629,
+        "CSSS": 1225,
+        "EVE": 1198,
+        "ECE": 1133
+      },
+      "GNPDD": {
+        "CSAM": 19338,
+        "CSAI": 3403,
+        "CSB": 24688,
+        "CSD": 25228,
+        "CSEcon": 26530,
+        "CSE": 18645,
+        "CSSS": 26567,
+        "EVE": 27879,
+        "ECE": 19627
+      },
+      "SCGND": {
+        "CSAM": 21858,
+        "CSAI": 17636,
+        "CSB": 24589,
+        "CSD": 20377,
+        "CSEcon": 22488,
+        "CSE": 18648,
+        "CSSS": 24636,
+        "EVE": 25483,
+        "ECE": 24637
+      },
+      "SCGNO": {
+        "CSAM": 11166,
+        "CSAI": 8586,
+        "CSB": 11688,
+        "CSD": 12412,
+        "CSE": 10516,
+        "CSSS": 13506,
+        "EVE": 13546,
+        "ECE": 12688
+      },
+      "STGND": {
+        "CSAI": 28202,
+        "CSD": 28457,
+        "CSE": 27686
+      },
+      "STGNO": {
+        "CSAM": 20230,
+        "CSAI": 16558,
+        "CSB": 16634,
+        "CSD": 17579,
+        "CSE": 15744,
+        "CSSS": 18079,
+        "EVE": 21110,
+        "ECE": 19296
+      },
+      "STPDD": {
+        "CSE": 29410
+      }
+    },
+    "With Bonus": {
+      "OBGND": {
+        "ECE": 14157
+      },
+      "OBGNO": {
+        "CSE": 1932
+      },
+      "GNGND": {
+        "CSAM": 2119,
+        "CSAI": 457,
+        "CSD": 2455,
+        "EVE": 7
+      },
+      "GNGNO": {
+        "CSAI": 401,
+        "CSE": 8,
+        "ECE": 15
+      },
+      "GNPDD": {
+        "CSE": 13705
+      }
+    }
+  }
+}

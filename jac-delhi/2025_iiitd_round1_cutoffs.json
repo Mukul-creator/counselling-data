@@ -1,0 +1,124 @@
+{
+  "source": "2025_IIIT-D_round1.pdf",
+  "institute": "IIIT Delhi",
+  "round": 5,
+  "year": 2025,
+  "branches": [
+    "CSAM",
+    "CSAI",
+    "CSB",
+    "CSD",
+    "CSEcon",
+    "CSE",
+    "CSSS",
+    "EVE",
+    "ECE"
+  ],
+  "cutoffs": {
+    "Without Bonus": {
+      "OBCWD": {
+        "CSAM": 12562,
+        "CSD": 16951,
+        "CSEcon": 184820,
+        "CSSS": 165058
+      },
+      "OBGND": {
+        "CSAM": 9871,
+        "CSD": 12685,
+        "CSEcon": 111060,
+        "CSSS": 78924,
+        "EVE": 96040
+      },
+      "OBGNO": {
+        "CSAM": 1417,
+        "CSD": 2320,
+        "CSEcon": 16560,
+        "CSSS": 13289,
+        "EVE": 10448
+      },
+      "EWGND": {
+        "CSAM": 6140,
+        "CSD": 7299,
+        "CSEcon": 53766,
+        "CSSS": 46460,
+        "EVE": 46621
+      },
+      "EWGNO": {
+        "CSAM": 1011,
+        "CSD": 1367,
+        "CSEcon": 10708,
+        "CSSS": 6973
+      },
+      "GNKM": {
+        "CSAM": 3375,
+        "CSD": 6576,
+        "CSEcon": 47724,
+        "CSSS": 23723,
+        "EVE": 24710
+      },
+      "GNCWD": {
+        "CSAM": 11002,
+        "CSD": 5769,
+        "CSEcon": 41403,
+        "CSSS": 853884,
+        "EVE": 18459
+      },
+      "GNGND": {
+        "CSAM": 823,
+        "CSD": 2234,
+        "CSEcon": 16098,
+        "CSSS": 9594,
+        "EVE": 7429
+      },
+      "GNGNO": {
+        "CSAM": 135,
+        "CSD": 550,
+        "CSEcon": 5717,
+        "CSSS": 3898,
+        "EVE": 4855
+      },
+      "GNPDD": {
+        "CSAM": 17298,
+        "CSD": 21948,
+        "CSEcon": 346638,
+        "CSSS": 364582,
+        "EVE": 373932
+      },
+      "SCGND": {
+        "CSAM": 16020,
+        "CSD": 17637,
+        "CSEcon": 199264,
+        "CSSS": 170982,
+        "EVE": 178256
+      },
+      "SCGNO": {
+        "CSAM": 6850,
+        "CSD": 9172,
+        "CSEcon": 71309,
+        "CSSS": 50852
+      },
+      "STGND": {
+        "CSAM": 25419,
+        "CSD": 25925,
+        "CSEcon": 1133911,
+        "CSSS": 960804,
+        "EVE": 593505
+      },
+      "STGNO": {
+        "CSAM": 13257,
+        "CSD": 14935,
+        "CSEcon": 146363,
+        "CSSS": 130882
+      }
+    },
+    "With Bonus": {
+      "GNGND": {
+        "CSAM": 441
+      },
+      "GNGNO": {
+        "CSAM": 126,
+        "EVE": 19934
+      }
+    }
+  }
+}

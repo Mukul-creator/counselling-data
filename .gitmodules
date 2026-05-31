@@ -1,0 +1,6 @@
+[submodule "mahcet-extractor"]
+	path = mahcet-extractor
+	url = https://github.com/Mukul-creator/mahcet-extractor.git
+[submodule "mailer"]
+	path = mailer
+	url = https://github.com/Mukul-creator/jee-mailer.git

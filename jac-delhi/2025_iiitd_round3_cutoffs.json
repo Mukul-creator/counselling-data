@@ -1,0 +1,206 @@
+{
+  "source": "2025_IIIT-D_round3.pdf",
+  "institute": "IIIT Delhi",
+  "round": 5,
+  "year": 2025,
+  "branches": [
+    "CSAM",
+    "CSAI",
+    "CSB",
+    "CSD",
+    "CSEcon",
+    "CSE",
+    "CSSS",
+    "EVE",
+    "ECE"
+  ],
+  "cutoffs": {
+    "Without Bonus": {
+      "OBCWD": {
+        "CSAM": 16330,
+        "CSAI": 16015,
+        "CSB": 18941,
+        "CSD": 17827,
+        "CSE": 12320,
+        "CSSS": 20354,
+        "EVE": 20179,
+        "ECE": 22664
+      },
+      "OBGND": {
+        "CSAM": 10959,
+        "CSAI": 8116,
+        "CSB": 14679,
+        "CSD": 11837,
+        "CSEcon": 12747,
+        "CSE": 9694,
+        "CSSS": 15087,
+        "EVE": 15388,
+        "ECE": 16040
+      },
+      "OBGNO": {
+        "CSAM": 2434,
+        "CSAI": 2062,
+        "CSB": 2776,
+        "CSD": 2496,
+        "CSEcon": 2443,
+        "CSE": 2098,
+        "CSSS": 3003,
+        "EVE": 3033,
+        "ECE": 3180
+      },
+      "EWCWD": {
+        "CSAI": 8847,
+        "CSE": 8293,
+        "ECE": 22138
+      },
+      "EWGND": {
+        "CSAM": 6796,
+        "CSAI": 4966,
+        "CSB": 8303,
+        "CSD": 7675,
+        "CSEcon": 6947,
+        "CSE": 5441,
+        "CSSS": 8940,
+        "EVE": 9094,
+        "ECE": 9613
+      },
+      "EWGNO": {
+        "CSAM": 1448,
+        "CSAI": 1198,
+        "CSB": 1664,
+        "CSD": 1525,
+        "CSE": 1229,
+        "CSSS": 1657,
+        "EVE": 2071,
+        "ECE": 2212
+      },
+      "EWPDD": {
+        "CSAI": 28146,
+        "CSE": 23761
+      },
+      "GNKM": {
+        "CSAM": 3641,
+        "CSAI": 27390,
+        "CSB": 7194,
+        "CSD": 3690,
+        "CSEcon": 3827,
+        "CSE": 3182,
+        "CSSS": 7067,
+        "EVE": 3432,
+        "ECE": 4670
+      },
+      "GNCWD": {
+        "CSAM": 12176,
+        "CSAI": 3125,
+        "CSB": 6308,
+        "CSD": 28907,
+        "CSEcon": 2800,
+        "CSE": 16065,
+        "CSSS": 6433,
+        "EVE": 6569,
+        "ECE": 7212
+      },
+      "GNGND": {
+        "CSAM": 1439,
+        "CSAI": 361,
+        "CSB": 2891,
+        "CSD": 1901,
+        "CSEcon": 1453,
+        "CSE": 666,
+        "CSSS": 2608,
+        "EVE": 3142,
+        "ECE": 3468
+      },
+      "GNGNO": {
+        "CSAM": 346,
+        "CSAI": 281,
+        "CSB": 994,
+        "CSD": 761,
+        "CSEcon": 556,
+        "CSE": 200,
+        "CSSS": 905,
+        "EVE": 813,
+        "ECE": 1029
+      },
+      "GNPDD": {
+        "CSAM": 19337,
+        "CSAI": 3402,
+        "CSB": 24688,
+        "CSD": 25227,
+        "CSEcon": 26530,
+        "CSE": 17819,
+        "CSSS": 27087,
+        "EVE": 19626,
+        "ECE": 26567
+      },
+      "SCGND": {
+        "CSAM": 19158,
+        "CSAI": 16699,
+        "CSB": 21830,
+        "CSD": 19701,
+        "CSEcon": 20166,
+        "CSE": 17614,
+        "CSSS": 22772,
+        "EVE": 21937,
+        "ECE": 22958
+      },
+      "SCGNO": {
+        "CSAM": 9774,
+        "CSAI": 7435,
+        "CSB": 11093,
+        "CSD": 10100,
+        "CSE": 8877,
+        "CSSS": 11165,
+        "EVE": 11687,
+        "ECE": 12089
+      },
+      "STGND": {
+        "CSAM": 28621,
+        "CSAI": 28204,
+        "CSEcon": 29109,
+        "CSE": 27687,
+        "CSSS": 28459,
+        "EVE": 28846
+      },
+      "STGNO": {
+        "CSAM": 18093,
+        "CSAI": 16557,
+        "CSB": 16633,
+        "CSD": 17578,
+        "CSE": 15743,
+        "CSSS": 18078,
+        "EVE": 19145,
+        "ECE": 18998
+      },
+      "STPDD": {
+        "CSE": 29411
+      }
+    },
+    "With Bonus": {
+      "OBGND": {
+        "EVE": 14156
+      },
+      "OBGNO": {
+        "CSE": 1931,
+        "EVE": 15
+      },
+      "GNGND": {
+        "CSAM": 1442,
+        "CSAI": 328,
+        "CSB": 2118,
+        "CSE": 457,
+        "CSSS": 2454,
+        "ECE": 7
+      },
+      "GNGNO": {
+        "CSAI": 97,
+        "CSD": 401,
+        "CSEcon": 607,
+        "CSE": 131
+      },
+      "GNPDD": {
+        "CSE": 13704
+      }
+    }
+  }
+}

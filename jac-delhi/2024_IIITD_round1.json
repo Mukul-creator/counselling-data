@@ -1,0 +1,654 @@
+{
+  "source_file": "2024_IIITD_round1.pdf",
+  "university": "IIITD",
+  "without_bonus": [
+    {
+      "branch": "CSAM",
+      "OBCWD": {
+        "jee_rank": 98319,
+        "iiit_rank": 11000,
+        "round": "vi"
+      },
+      "OBGND": {
+        "jee_rank": 78633,
+        "iiit_rank": 9084
+      },
+      "OBGNO": {
+        "jee_rank": 11497,
+        "iiit_rank": 1076
+      },
+      "OBPDD": null,
+      "EWCWD": null,
+      "EWGND": {
+        "jee_rank": 32126,
+        "iiit_rank": 3778
+      },
+      "EWGNO": {
+        "jee_rank": 7261,
+        "iiit_rank": 559
+      },
+      "EWPDD": null,
+      "GNKM": {
+        "jee_rank": 12846,
+        "iiit_rank": 1271
+      },
+      "GNCWD": {
+        "jee_rank": 10544,
+        "iiit_rank": 961,
+        "round": "vi"
+      },
+      "GNGND": {
+        "jee_rank": 10231,
+        "iiit_rank": 928
+      },
+      "GNGNO": {
+        "jee_rank": 3588,
+        "iiit_rank": 163
+      },
+      "GNPDD": {
+        "jee_rank": 175467,
+        "iiit_rank": 16606
+      },
+      "SCCWD": {
+        "jee_rank": 591339,
+        "iiit_rank": 25069,
+        "round": "viii"
+      },
+      "SCGND": {
+        "jee_rank": 162012,
+        "iiit_rank": 15839
+      },
+      "SCGNO": {
+        "jee_rank": 48239,
+        "iiit_rank": 5639
+      },
+      "SCPDD": null,
+      "STGND": {
+        "jee_rank": 679334,
+        "iiit_rank": 25463
+      },
+      "STGNO": {
+        "jee_rank": 103550,
+        "iiit_rank": 11483
+      }
+    },
+    {
+      "branch": "CSAI",
+      "OBCWD": {
+        "jee_rank": 77706,
+        "iiit_rank": 8974,
+        "round": "vi"
+      },
+      "OBGND": {
+        "jee_rank": 47943,
+        "iiit_rank": 5585
+      },
+      "OBGNO": {
+        "jee_rank": 8518,
+        "iiit_rank": 718
+      },
+      "OBPDD": {
+        "jee_rank": 288350,
+        "iiit_rank": 21104
+      },
+      "EWCWD": null,
+      "EWGND": {
+        "jee_rank": 21317,
+        "iiit_rank": 2402
+      },
+      "EWGNO": {
+        "jee_rank": 5020,
+        "iiit_rank": 302
+      },
+      "EWPDD": null,
+      "GNKM": {
+        "jee_rank": 150678,
+        "iiit_rank": 15129
+      },
+      "GNCWD": {
+        "jee_rank": 310232,
+        "iiit_rank": 21633,
+        "round": "v"
+      },
+      "GNGND": {
+        "jee_rank": 3975,
+        "iiit_rank": 196
+      },
+      "GNGNO": {
+        "jee_rank": 2352,
+        "iiit_rank": 84
+      },
+      "GNPDD": {
+        "jee_rank": 83476,
+        "iiit_rank": 9597
+      },
+      "SCCWD": {
+        "jee_rank": 382637,
+        "iiit_rank": 22991,
+        "round": "viii"
+      },
+      "SCGND": {
+        "jee_rank": 121300,
+        "iiit_rank": 13030
+      },
+      "SCGNO": {
+        "jee_rank": 42612,
+        "iiit_rank": 5017
+      },
+      "SCPDD": {
+        "jee_rank": 1247374,
+        "iiit_rank": 26303
+      },
+      "STGND": {
+        "jee_rank": 322469,
+        "iiit_rank": 21897
+      },
+      "STGNO": {
+        "jee_rank": 101832,
+        "iiit_rank": 11320
+      }
+    },
+    {
+      "branch": "CSB",
+      "OBCWD": {
+        "jee_rank": 197359,
+        "iiit_rank": 17752,
+        "round": "vi"
+      },
+      "OBGND": {
+        "jee_rank": 91242,
+        "iiit_rank": 10332
+      },
+      "OBGNO": {
+        "jee_rank": 15175,
+        "iiit_rank": 1571
+      },
+      "OBPDD": null,
+      "EWCWD": null,
+      "EWGND": {
+        "jee_rank": 41372,
+        "iiit_rank": 4853
+      },
+      "EWGNO": {
+        "jee_rank": 11104,
+        "iiit_rank": 1032
+      },
+      "EWPDD": null,
+      "GNKM": {
+        "jee_rank": 46816,
+        "iiit_rank": 5480
+      },
+      "GNCWD": {
+        "jee_rank": 22262,
+        "iiit_rank": 2534,
+        "round": "vi"
+      },
+      "GNGND": {
+        "jee_rank": 17670,
+        "iiit_rank": 1898
+      },
+      "GNGNO": {
+        "jee_rank": 5700,
+        "iiit_rank": 379
+      },
+      "GNPDD": {
+        "jee_rank": 355265,
+        "iiit_rank": 22523
+      },
+      "SCCWD": {
+        "jee_rank": 900774,
+        "iiit_rank": 26054,
+        "round": "viii"
+      },
+      "SCGND": {
+        "jee_rank": 179052,
+        "iiit_rank": 16786
+      },
+      "SCGNO": {
+        "jee_rank": 66859,
+        "iiit_rank": 7782
+      },
+      "SCPDD": null,
+      "STGND": {
+        "jee_rank": 1120316,
+        "iiit_rank": 26259
+      },
+      "STGNO": {
+        "jee_rank": 134773,
+        "iiit_rank": 14017
+      }
+    },
+    {
+      "branch": "CSD",
+      "OBCWD": {
+        "jee_rank": 142445,
+        "iiit_rank": 14569,
+        "round": "vi"
+      },
+      "OBGND": {
+        "jee_rank": 78916,
+        "iiit_rank": 9116
+      },
+      "OBGNO": {
+        "jee_rank": 11681,
+        "iiit_rank": 1097
+      },
+      "OBPDD": null,
+      "EWCWD": null,
+      "EWGND": {
+        "jee_rank": 33078,
+        "iiit_rank": 3876
+      },
+      "EWGNO": {
+        "jee_rank": 9132,
+        "iiit_rank": 786
+      },
+      "EWPDD": null,
+      "GNKM": {
+        "jee_rank": 15546,
+        "iiit_rank": 1611
+      },
+      "GNCWD": {
+        "jee_rank": 19736,
+        "iiit_rank": 2174,
+        "round": "vi"
+      },
+      "GNGND": {
+        "jee_rank": 12527,
+        "iiit_rank": 1220
+      },
+      "GNGNO": {
+        "jee_rank": 4201,
+        "iiit_rank": 219
+      },
+      "GNPDD": {
+        "jee_rank": 304157,
+        "iiit_rank": 21496
+      },
+      "SCCWD": null,
+      "SCGND": {
+        "jee_rank": 154561,
+        "iiit_rank": 15362
+      },
+      "SCGNO": {
+        "jee_rank": 58994,
+        "iiit_rank": 6865
+      },
+      "SCPDD": null,
+      "STGND": {
+        "jee_rank": 631551,
+        "iiit_rank": 25280
+      },
+      "STGNO": null
+    },
+    {
+      "branch": "CSE",
+      "OBCWD": {
+        "jee_rank": 85498,
+        "iiit_rank": 9781,
+        "round": "vi"
+      },
+      "OBGND": {
+        "jee_rank": 62327,
+        "iiit_rank": 7252
+      },
+      "OBGNO": {
+        "jee_rank": 8604,
+        "iiit_rank": 730
+      },
+      "OBPDD": {
+        "jee_rank": 849894,
+        "iiit_rank": 25959
+      },
+      "EWCWD": {
+        "jee_rank": 44866,
+        "iiit_rank": 5276,
+        "round": "vi"
+      },
+      "EWGND": {
+        "jee_rank": 24828,
+        "iiit_rank": 2866
+      },
+      "EWGNO": {
+        "jee_rank": 6323,
+        "iiit_rank": 440
+      },
+      "EWPDD": {
+        "jee_rank": 299094,
+        "iiit_rank": 21398
+      },
+      "GNKM": {
+        "jee_rank": 121036,
+        "iiit_rank": 12995
+      },
+      "GNCWD": {
+        "jee_rank": 199515,
+        "iiit_rank": 17854,
+        "round": "v"
+      },
+      "GNGND": {
+        "jee_rank": 6615,
+        "iiit_rank": 484
+      },
+      "GNGNO": {
+        "jee_rank": 1223,
+        "iiit_rank": 26
+      },
+      "GNPDD": {
+        "jee_rank": 166082,
+        "iiit_rank": 16103
+      },
+      "SCCWD": {
+        "jee_rank": 256102,
+        "iiit_rank": 20122,
+        "round": "vi"
+      },
+      "SCGND": {
+        "jee_rank": 122763,
+        "iiit_rank": 13133
+      },
+      "SCGNO": {
+        "jee_rank": 39414,
+        "iiit_rank": 4638
+      },
+      "SCPDD": null,
+      "STGND": {
+        "jee_rank": 349035,
+        "iiit_rank": 22421
+      },
+      "STGNO": {
+        "jee_rank": 15729,
+        "iiit_rank": 1634
+      }
+    },
+    {
+      "branch": "CSSS",
+      "OBCWD": {
+        "jee_rank": 177071,
+        "iiit_rank": 16695,
+        "round": "vi"
+      },
+      "OBGND": {
+        "jee_rank": 84971,
+        "iiit_rank": 9733
+      },
+      "OBGNO": {
+        "jee_rank": 14653,
+        "iiit_rank": 1501
+      },
+      "OBPDD": null,
+      "EWCWD": null,
+      "EWGND": {
+        "jee_rank": 38837,
+        "iiit_rank": 4575
+      },
+      "EWGNO": {
+        "jee_rank": 10748,
+        "iiit_rank": 981
+      },
+      "EWPDD": null,
+      "GNKM": {
+        "jee_rank": 32789,
+        "iiit_rank": 3839
+      },
+      "GNCWD": {
+        "jee_rank": 26079,
+        "iiit_rank": 3052,
+        "round": "vi"
+      },
+      "GNGND": {
+        "jee_rank": 15908,
+        "iiit_rank": 1653
+      },
+      "GNGNO": {
+        "jee_rank": 5333,
+        "iiit_rank": 333
+      },
+      "GNPDD": {
+        "jee_rank": 348976,
+        "iiit_rank": 22420
+      },
+      "SCCWD": null,
+      "SCGND": {
+        "jee_rank": 177343,
+        "iiit_rank": 16709
+      },
+      "SCGNO": {
+        "jee_rank": 66280,
+        "iiit_rank": 7704
+      },
+      "SCPDD": null,
+      "STGND": {
+        "jee_rank": 824775,
+        "iiit_rank": 25891
+      },
+      "STGNO": null
+    },
+    {
+      "branch": "ECE",
+      "OBCWD": {
+        "jee_rank": 211433,
+        "iiit_rank": 18390,
+        "round": "vi"
+      },
+      "OBGND": {
+        "jee_rank": 102256,
+        "iiit_rank": 11361
+      },
+      "OBGNO": {
+        "jee_rank": 16264,
+        "iiit_rank": 1692
+      },
+      "OBPDD": null,
+      "EWCWD": {
+        "jee_rank": 78647,
+        "iiit_rank": 9087,
+        "round": "vi"
+      },
+      "EWGND": {
+        "jee_rank": 39151,
+        "iiit_rank": 4606
+      },
+      "EWGNO": {
+        "jee_rank": 7647,
+        "iiit_rank": 610
+      },
+      "EWPDD": null,
+      "GNKM": {
+        "jee_rank": 20879,
+        "iiit_rank": 2333
+      },
+      "GNCWD": {
+        "jee_rank": 30877,
+        "iiit_rank": 3634,
+        "round": "vi"
+      },
+      "GNGND": {
+        "jee_rank": 19404,
+        "iiit_rank": 2127
+      },
+      "GNGNO": {
+        "jee_rank": 6109,
+        "iiit_rank": 418
+      },
+      "GNPDD": {
+        "jee_rank": 408056,
+        "iiit_rank": 23356
+      },
+      "SCCWD": null,
+      "SCGND": {
+        "jee_rank": 187747,
+        "iiit_rank": 17256
+      },
+      "SCGNO": {
+        "jee_rank": 61194,
+        "iiit_rank": 7120
+      },
+      "SCPDD": null,
+      "STGND": {
+        "jee_rank": 700118,
+        "iiit_rank": 25546
+      },
+      "STGNO": {
+        "jee_rank": 96472,
+        "iiit_rank": 10839
+      }
+    },
+    {
+      "branch": "EVE",
+      "OBCWD": {
+        "jee_rank": 250115,
+        "iiit_rank": 19911,
+        "round": "vi"
+      },
+      "OBGND": {
+        "jee_rank": 113666,
+        "iiit_rank": 12368
+      },
+      "OBGNO": {
+        "jee_rank": 19838,
+        "iiit_rank": 2189
+      },
+      "OBPDD": null,
+      "EWCWD": null,
+      "EWGND": {
+        "jee_rank": 47979,
+        "iiit_rank": 5597
+      },
+      "EWGNO": {
+        "jee_rank": 11417,
+        "iiit_rank": 1065
+      },
+      "EWPDD": null,
+      "GNKM": {
+        "jee_rank": 12715,
+        "iiit_rank": 1250
+      },
+      "GNCWD": {
+        "jee_rank": 44693,
+        "iiit_rank": 5257,
+        "round": "vi"
+      },
+      "GNGND": {
+        "jee_rank": 22477,
+        "iiit_rank": 2564
+      },
+      "GNGNO": {
+        "jee_rank": 7512,
+        "iiit_rank": 590
+      },
+      "GNPDD": {
+        "jee_rank": 924573,
+        "iiit_rank": 26092
+      },
+      "SCCWD": null,
+      "SCGND": {
+        "jee_rank": 213480,
+        "iiit_rank": 18471
+      },
+      "SCGNO": {
+        "jee_rank": 68925,
+        "iiit_rank": 8003
+      },
+      "SCPDD": null,
+      "STGND": null,
+      "STGNO": {
+        "jee_rank": 136201,
+        "iiit_rank": 14118
+      }
+    }
+  ],
+  "with_bonus": [
+    {
+      "branch": "CSAM",
+      "OBGND": null,
+      "OBGNO": null,
+      "EWGNO": null,
+      "GNGND": null,
+      "GNGNO": null
+    },
+    {
+      "branch": "CSAI",
+      "OBGND": null,
+      "OBGNO": null,
+      "EWGNO": null,
+      "GNGND": {
+        "jee_rank": 18048,
+        "iiit_rank": 1
+      },
+      "GNGNO": null
+    },
+    {
+      "branch": "CSB",
+      "OBGND": null,
+      "OBGNO": null,
+      "EWGNO": null,
+      "GNGND": null,
+      "GNGNO": null
+    },
+    {
+      "branch": "CSD",
+      "OBGND": null,
+      "OBGNO": null,
+      "EWGNO": null,
+      "GNGND": null,
+      "GNGNO": null
+    },
+    {
+      "branch": "CSE",
+      "OBGND": {
+        "jee_rank": 59946,
+        "iiit_rank": 5281
+      },
+      "OBGNO": {
+        "jee_rank": 22675,
+        "iiit_rank": 522
+      },
+      "EWGNO": {
+        "jee_rank": 18496,
+        "iiit_rank": 104
+      },
+      "GNGND": {
+        "jee_rank": 21112,
+        "iiit_rank": 349
+      },
+      "GNGNO": {
+        "jee_rank": 15240,
+        "iiit_rank": 9
+      }
+    },
+    {
+      "branch": "CSSS",
+      "OBGND": null,
+      "OBGNO": null,
+      "EWGNO": null,
+      "GNGND": null,
+      "GNGNO": null
+    },
+    {
+      "branch": "ECE",
+      "OBGND": {
+        "jee_rank": 116561,
+        "iiit_rank": 11366
+      },
+      "OBGNO": {
+        "jee_rank": 27433,
+        "iiit_rank": 1130
+      },
+      "EWGNO": null,
+      "GNGND": null,
+      "GNGNO": null
+    },
+    {
+      "branch": "EVE",
+      "OBGND": null,
+      "OBGNO": null,
+      "EWGNO": null,
+      "GNGND": {
+        "jee_rank": 35522,
+        "iiit_rank": 2237
+      },
+      "GNGNO": null
+    }
+  ]
+}
