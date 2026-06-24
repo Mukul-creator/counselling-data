@@ -359,9 +359,10 @@ def parse_cutoff_text(text, year, cap_round, quota, debug=False):
         )):
             continue
 
-        # ── College header:  DDDDD - Name ────────────────────────
-        cm = re.match(r"^(\d{5})\s*-\s*(.+)$", line)
-        if cm and not re.match(r"^\d{10}", line):
+        # ── College header:  DDDD/DDDDD - Name ──────────────────
+        # 2023 uses 4-digit codes, 2024+ uses 5-digit codes
+        cm = re.match(r"^(\d{4,5})\s*-\s*(.+)$", line)
+        if cm and not re.match(r"^\d{8,10}", line):
             college_code = cm.group(1).strip()
             college_name = cm.group(2).strip()
             college_count += 1
@@ -370,8 +371,9 @@ def parse_cutoff_text(text, year, cap_round, quota, debug=False):
             seat_type = "State Level"
             continue
 
-        # ── Branch header:  DDDDDDDDDD - Name ────────────────────
-        bm = re.match(r"^(\d{10})\s*-\s*(.+)$", line)
+        # ── Branch header:  DDDDDDDDD/DDDDDDDDDD - Name ─────────
+        # 2023 uses 9-digit codes, 2024+ uses 10-digit codes
+        bm = re.match(r"^(\d{9,10})\s*-\s*(.+)$", line)
         if bm:
             branch_code = bm.group(1).strip()
             branch_name = bm.group(2).strip()
